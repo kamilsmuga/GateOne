@@ -1,0 +1,65 @@
+{
+    "personalData"  : {
+        "name"      : "Kamil Smuga",
+        "email"     : "smugakamil@gmail.com",
+        "mobile"    : "087 29 7777 9",
+        "linkedin"  : "http://linkedin.com/pub/kamil-smuga/47/833/63",
+        "github"    : "https://github.com/kamilsmuga",
+        "summary"   : "Automation folk. Getting things done. Hate to repeat anything twice except snowboarding and sailing."
+        },
+
+    "education"     : [{
+        "university": "University College Dublin",
+        "programme" : "MSc in Advanced Software Engineering",
+        "dates"     : "2012 - now",
+        "courses"   : [ "Managing Software in Production",
+                      "Design Patterns",
+                      "Performance of Distributed Systems",
+                      "iOS 7 for iPhone Application Development",
+                      "Knowledge-based Systems" ]
+        },
+        {
+        "university": "AGH Krakow",
+        "programme" : "BSc in Applied Computer Science",
+        "dates"     : "2008 - 2012"    
+        }],
+
+    "professionalExperience" : [{
+        "role"      : "Site Reliability Engineer",
+        "company"   : "salesforce.com",
+        "dates"     : "Mar 2013 - now",
+        "summary"   : [ "Automation development: MTTR reduction and manual operational tasks",
+                      "Smart monitoring development",
+                      "Incident management",
+                      "Troubleshooting", 
+                      "Firefighting",
+                      "Log Mining" ]
+        },
+        {
+        "role"      : "Software Engineer in Test",
+        "company"   : "IBM",
+        "dates"     : "Jan 2011 - Feb 2013",
+        "summary"   : [ "Test automation development", 
+                      "Tests: unit, functional, regression, systems, load, performance, integration, acceptance" ]            
+        }],
+
+    "professionalSkills" : {
+        "coding"    : [ "Java", 
+                      "Python", 
+                      "Force.com Apex" ],
+        "scripting" : "Shell",
+        "OS"        : "Linux Red Hat",
+        "monitoring": [ "Graphite",
+                      "Nagios",
+                      "Cacti"],
+        "logMining" : "Splunk",
+        "VCS"       : [ "Git",
+                      "SVN" ]
+        },
+
+    "coursesAndCerts" : {
+        "OS"        : "Red Hat Certified Administrator RH135",
+        "incident"  : "Incident Management course provided by BlackRock3 Partners",
+        "sfdc"      : "Salesforce.com Administration ADM201 course"
+    }
+}
