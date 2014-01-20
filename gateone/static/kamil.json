@@ -45,7 +45,7 @@
         }],
 
     "professionalSkills" : {
-        "coding"    : [ "Java", 
+        "coding"    : [ "Java", "Selenium", "testNG", 
                       "Python", 
                       "Force.com Apex" ],
         "scripting" : "Shell",
