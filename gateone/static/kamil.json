@@ -2,10 +2,9 @@
     "personalData"  : {
         "name"      : "Kamil Smuga",
         "email"     : "smugakamil@gmail.com",
-        "mobile"    : "087 29 7777 9",
+        "mobile"    : "+353 87 29 7777 9",
         "linkedin"  : "http://linkedin.com/pub/kamil-smuga/47/833/63",
         "github"    : "https://github.com/kamilsmuga",
-        "summary"   : "Automation folk. Get things done."        
         },
 
 
@@ -13,11 +12,12 @@
         "university": "University College Dublin",
         "programme" : "MSc in Advanced Software Engineering",
         "dates"     : "2012 - now",
-        "courses"   : [ "Managing Software in Production",
+        "modules"   : [ "Managing Software in Production",
                       "Design Patterns",
                       "Performance of Distributed Systems",
                       "iOS 7 for iPhone Application Development",
-                      "Knowledge-based Systems" ]
+                      "Knowledge-based Systems",
+                      "Agent-oriented programming" ]
         },
         {
         "university": "AGH Krakow",
@@ -29,7 +29,7 @@
         "role"      : "Site Reliability Engineer",
         "company"   : "salesforce.com",
         "dates"     : "Mar 2013 - now",
-        "summary"   : [ "Automation development: MTTR reduction and manual operational tasks",
+        "summary"   : [ "Automation development: MTTR reduction and automating manual operational tasks",
                       "Smart monitoring development",
                       "Incident management",
                       "Troubleshooting", 
@@ -47,13 +47,20 @@
     "professionalSkills" : {
         "coding"    : [ "Java", "Selenium", "testNG", 
                       "Python", 
-                      "Force.com Apex" ],
-        "scripting" : "Shell",
-        "OS"        : "Linux Red Hat",
+                      "Force.com Apex", 
+                      "Objective-C" ],
+        "scripting" : "Bash",
+        "OS"        : "Linux: RHEL, Ubuntu",
         "monitoring": [ "Graphite",
                       "Nagios",
                       "Cacti"],
-        "logMining" : "Splunk",
+        "logMining" : [ "Splunk", 
+                      "Logstash",
+                      "Elasticsearch" ],
+        "NOSQL"     : [ "MongoDB", 
+                        "Couchbase" ],
+     "Provisioning" : "Puppet",
+       "Deployment" : "Vagrant",
         "VCS"       : [ "Git",
                       "SVN" ]
         },
