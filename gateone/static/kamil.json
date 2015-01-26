@@ -11,7 +11,7 @@
     "education"     : [{
         "university": "University College Dublin",
         "programme" : "MSc in Advanced Software Engineering",
-        "dates"     : "2012 - now",
+        "dates"     : "2012 - 2014",
         "modules"   : [ "Managing Software in Production",
                       "Design Patterns",
                       "Performance of Distributed Systems",
@@ -47,7 +47,7 @@
     "professionalSkills" : {
         "coding"    : [ "Java", "Selenium", "testNG", 
                       "Python", 
-                      "Force.com Apex", 
+                      "Force.com Apex, Visualforce", 
                       "Objective-C" ],
         "scripting" : "Bash",
         "OS"        : "Linux: RHEL, Ubuntu",
@@ -66,7 +66,7 @@
         },
 
     "coursesAndCerts" : {
-        "OS"        : "Red Hat Certified Administrator RH135",
+        "OS"        : "RHCSA", "RHCE",
         "incident"  : "Incident Management course provided by BlackRock3 Partners",
         "sfdc"      : "Salesforce.com Administration ADM201 course"
     }
